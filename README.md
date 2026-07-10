@@ -6,6 +6,14 @@
   
 <li>Streamlit-based UI for interactive chatbot workflows</li>
 
-<li>LLM selection via Groq with model choices: llama3-8b-8192,llama3-70b-8192,gemma2-9b-it</li>
+<li>LLM selection via Groq with model choices: llama3-8b-8192, llama3-70b-8192, gemma2-9b-it</li>
+<li>Three built-in use cases: Basic Chatbot, Chatbot With Web, AI News</li>
+<li>LangGraph stateful graph architecture using StateGraph</li>
 
+<strong>Custom node types:</strong>
+<ul>
+<li>BasicChatbotNode</li>
+<li>ChatbotWithToolNode</li>
+<li>AINewsNode</li>
+</ul>
 </ul>
