@@ -18,6 +18,7 @@
 <strong>Technologies used:</strong>
 
 <ul>
+  <li>Python – Used as the main programming language for developing AI.</li>
   <li></li>
 </ul>
 
