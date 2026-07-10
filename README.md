@@ -25,7 +25,6 @@
   <li>langchain_groq - Used to connect to Groq-hosted LLM backends like llama3-8b-8192, llama3-70b-8192, and gemma2-9b-it.</li>
   <li>tavily-python - Used to fetch live web search/news content for the Chatbot With Web and AI News flows.</li>
   <li>FAISS (faiss-cpu): Included for local vector similarity and retrieval support in the tool/agent pipeline.</li>
-  <li> </li>
 </ul>
 
 
